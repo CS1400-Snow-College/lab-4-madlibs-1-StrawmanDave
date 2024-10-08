@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/bin/Debug/net8.0/lab-4-madlibs-1-StrawmanDave
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/bin/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/bin/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/bin/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/bin/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/refint/lab-4-madlibs-1-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/lab-4-madlibs-1-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-4-madlibs-1-StrawmanDave/obj/Debug/net8.0/ref/lab-4-madlibs-1-StrawmanDave.dll
